@@ -1,0 +1,2 @@
+medquad: https://github.com/abachaa/MedQuAD
+icliniq: https://github.com/LasseRegin/medical-question-answer-data

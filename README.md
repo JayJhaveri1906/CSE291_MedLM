@@ -7,7 +7,7 @@ In the face of rapidly expanding online medical literature, automated systems fo
 ## More info
 Read our report that explains the motivation, entire process we used, and everything in detail [here](./Docs/CSE_291___MedLM.pdf)
 
-For a brief overview, refer our ppt [here](./Docs/CSE 291 MedLM.pptx)
+For a brief overview, refer our ppt [here](./Docs/CSE_291_MedLM.pptx)
 
 
 ## Folder Structure and How to run
